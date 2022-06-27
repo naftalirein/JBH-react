@@ -1,0 +1,17 @@
+.car {
+    width: 100px;
+    height: 100px;
+  }
+  
+  .fast {
+    background-color: red;
+  }
+  
+  .slow {
+    background-color: green;
+  }
+  
+  .medum {
+    background-color: blue;
+  }
+  
