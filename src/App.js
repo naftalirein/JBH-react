@@ -1,9 +1,9 @@
 import "./App.css";
-import InputName from "./components/inputName/inputName";
+import Calculator from "./components/Calculator/calculator.js";
 
 
 
 function App() {
-  return <InputName />;
+  return <Calculator />;
 }
 export default App;
